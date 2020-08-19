@@ -13,4 +13,4 @@
 
 [linkedin]: https://www.linkedin.com/in/stephen-herd/
 
-### :email: : stephen_h369@live.co.uk
+### :email: = stephen_h369@live.co.uk
