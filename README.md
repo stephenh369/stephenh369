@@ -9,8 +9,6 @@
 - ⚡ Fun fact: I'm a car guy :car:
 
 
-### [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+### [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]   :email: : stephen_h369@live.co.uk
 
 [linkedin]: https://www.linkedin.com/in/stephen-herd/
-
-### :email: : stephen_h369@live.co.uk
