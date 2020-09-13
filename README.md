@@ -5,7 +5,7 @@
 - :star: I’m currently learning: Java, React, Spring
 - :briefcase: I’m looking for work in Software Development!
 - 💬 Ask me about: JavaScript & CSS!
-- 📫 How to reach me: LinkedIn & Email below!
+- 📫 How to reach me: LinkedIn & Email below! Also check out my website!: https://stephenh369.github.io/portfolio_website/
 - ⚡ Fun fact: I'm a car guy :car:
 
 
@@ -14,3 +14,5 @@
 [linkedin]: https://www.linkedin.com/in/stephen-herd/
 
 ### :email: = stephen_h369@live.co.uk
+
+### :computer: = https://stephenh369.github.io/portfolio_website/
