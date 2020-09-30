@@ -1,8 +1,8 @@
 ### Hi there, I'm Stephen 👋
 
 
-- 🔭 I’m currently working on: CodeClan coursework
-- :star: I’m currently learning: Java, React, Spring
+- 🔭 I’m currently working on: Improving my website :computer:
+- :star: I’m currently learning/improving: Python :snake: 
 - :briefcase: I’m looking for work in Software Development!
 - 💬 Ask me about: JavaScript & CSS!
 - 📫 How to reach me: LinkedIn & Email below! Also check out my website!: https://stephenh369.github.io/portfolio_website/
