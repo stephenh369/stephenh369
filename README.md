@@ -15,4 +15,4 @@
 
 ### :email: = stephen_h369@live.co.uk
 
-### :computer: = https://stephenh369.github.io/portfolio_website/ (-IN PROGRESS-)
+### :computer: = https://stephenh369.github.io/portfolio_website/
