@@ -1,7 +1,7 @@
 ### Hi there, I'm Stephen 👋
 
 
-- 🔭 I’m currently working on: Improving my website :computer:
+- 🔭 I’m currently working on: Advent of Code! https://adventofcode.com/ :computer:
 - :star: I’m currently learning/improving: Python :snake: 
 - :briefcase: I’m looking for work in Software Development!
 - 💬 Ask me about: JavaScript & CSS!
