@@ -1,8 +1,8 @@
 ### Hi there, I'm Stephen 👋
 
 
-- 🔭 I’m currently working on: Advent of Code! https://adventofcode.com/ :computer:
-- :star: I’m currently learning/improving: Python :snake: 
+- 🔭 I’m currently working on: self-study :computer:
+- :star: I’m currently learning/improving: Python :snake: Data Structures & Algorithms :bulb:
 - :briefcase: I’m looking for work in Software Development!
 - 💬 Ask me about: JavaScript & CSS!
 - 📫 How to reach me: LinkedIn & Email below! Also check out my website!: https://stephenh369.github.io/portfolio_website/
