@@ -2,8 +2,8 @@
 
 
 - 🔭 I’m currently working on: self-study :computer:
-- :star: I’m currently learning/improving: Python :snake: Data Structures & Algorithms :bulb:
-- :briefcase: I’m looking for work in Software Development!
+- :star: I’m currently learning/improving: PHP :elephant:
+- :briefcase: I’m currently working as a web developer!
 - 💬 Ask me about: JavaScript & CSS!
 - 📫 How to reach me: LinkedIn & Email below! Also check out my website!: https://stephenh369.github.io/portfolio_website/
 - ⚡ Fun fact: I'm a car guy :car:
