@@ -1,11 +1,11 @@
 ### Hi there, I'm Stephen 👋
 
 
-- 🔭 I’m currently working on: self-study :computer:
-- :star: I’m currently learning/improving: PHP :elephant:
-- :briefcase: I’m currently working as a web developer!
+- 🔭 I’m currently working on: My website :computer:
+- :star: I’m currently learning/improving: JavaScript
+- :briefcase: I’m currently working as a Software Engineer!
 - 💬 Ask me about: JavaScript & CSS!
-- 📫 How to reach me: LinkedIn & Email below! Also check out my website!: https://stephenh369.github.io/portfolio_website/
+- 📫 How to reach me: LinkedIn & Email below! Also check out my website!: https://stephenherd.dev/
 - ⚡ Fun fact: I'm a car guy :car:
 
 
@@ -13,6 +13,6 @@
 
 [linkedin]: https://www.linkedin.com/in/stephen-herd/
 
-### :email: = stephen_h369@live.co.uk
+### :email: = stephen_h369@live.co.uk / contact@stephenherd.dev
 
-### :computer: = https://stephenh369.github.io/portfolio_website/
+### :computer: = https://stephenherd.dev/
