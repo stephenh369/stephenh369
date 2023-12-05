@@ -13,6 +13,6 @@
 
 [linkedin]: https://www.linkedin.com/in/stephen-herd/
 
-### :email: = stephen_h369@live.co.uk / contact@stephenherd.dev
+### :email: = stephen_h369@live.co.uk / stevothedevuk@gmail.com
 
 ### :computer: = https://stephenherd.dev/
